@@ -22,7 +22,7 @@ public class BaseTest {
 	 
 	 public static WebDriver driver;
 	 
-	//constructor
+	//constructor of BaseTest
 		public BaseTest()
 		{
 			
